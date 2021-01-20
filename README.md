@@ -1,6 +1,6 @@
 https://zborowskidesign.github.io/Currency-Converter/#/
 
-# A web application developed in React responsible for converting currencies based on current exchange rates retrieved from an external API provided by the European Central Bank. 
+### A web application developed in React responsible for converting currencies based on current exchange rates retrieved from an external API provided by the European Central Bank. 
 
 # The application is primarily designed to provide guaranteed access to current exchange rates from thirty-three countries, at the same time allowing for free program operation.
 
